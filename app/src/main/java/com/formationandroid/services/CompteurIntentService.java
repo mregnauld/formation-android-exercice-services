@@ -2,8 +2,9 @@ package com.formationandroid.services;
 
 import android.app.IntentService;
 import android.content.Intent;
-import android.support.annotation.Nullable;
 import android.util.Log;
+
+import androidx.annotation.Nullable;
 
 
 public class CompteurIntentService extends IntentService
